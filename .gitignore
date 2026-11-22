@@ -1,0 +1,22 @@
+# Visual Studio / IDE
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+.idea/
+.vscode/
+
+# Unreal Engine Build & Cache directories
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Temp & Editor files
+*.log
+*.tmp
+.mcp.json
